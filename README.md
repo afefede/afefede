@@ -14,3 +14,7 @@ A beautiful responsive front-end framework for Black businesses
 
 ## Backlog
 - TBD
+
+
+## Resources
+- [Simple Icons](https://github.com/simple-icons)
