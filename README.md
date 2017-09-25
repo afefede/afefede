@@ -1,2 +1,2 @@
 # afefede
-A responsive front-end framework for Black busineses
+A responsive front-end framework for Black businesses
