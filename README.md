@@ -13,8 +13,16 @@ A beautiful responsive front-end framework for Black businesses
 - Use YAML Integration to manage and save framework configurations
 
 ## Backlog
-- TBD
 
+### Business Stories
+- Develop user personas for Developer, Editor, and Client
+- Setup Angular development environment
+
+### Developer Stories
+- As a Developer I need to be able understand how the code works and what is needed to get started
+
+### Client Stories
+- As a Client I need a clear example of the look-n-feel of the framework in action
 
 ## Resources
 - [Simple Icons](https://github.com/simple-icons)
