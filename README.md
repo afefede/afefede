@@ -30,38 +30,53 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 
 ### Editor Stories
 - As a Editor I need to see examples of look-n-feel of basic framework globally shared items.
-- As a Editor I need to see examples of how to add animation/interaction to each components.
-- As a Editor I need to see examples of accessible anchor links. [@see variety.com](http://variety.com/2017/digital/news/kevin-hart-laugh-out-loud-streaming-platform-launch-date-1202491634/)
-- As a Editor I need to see examples of how the framework handles responsive images.
-- As a Editor I need to see examples of how the framework treats hero and main feature areas.
-- As a Editor I need to see examples of primary menu systems.
-- As a Editor I need to see examples of the frameworks grid system.
-- As a Editor I need to see examples of email layout templates.
-- As a Editor I need to see examples of responsive video.
-- As a Editor I need to see examples of social media sharing components.
-- As a Editor I need to see examples of newsletter signup components.
-- As a Editor I need to see examples of footer menus.
-- As a Editor I need to see examples of standard advertisements.
-- As a Editor I need to see examples of screen overlays.
-- As a Editor I need to see examples of page headers with and without search.
-- As a Editor I need to see examples of article layouts.
-- As a Editor I need to see examples of category layouts.
-- As a Editor I need to see examples of breadcrumb component.
-- As a Editor I need to see examples of registration components.
-- As a Editor I need to see examples of alert banner components.
-- As a Editor I need to see examples of member profile components.
-- As a Editor I need to see examples of carousal components.
-- As a Editor I need to see examples of content in tabs components.
-- As a Editor I need to see examples of show more content components.
-- As a Editor I need to see examples of page parallax components.
+- As a Editor I need to see examples of how to add animation/interaction to each component. [@see Image Animation](https://tympanus.net/Development/AnimatedImagePieces/gallery.html)
+- As a Editor I need to see examples of Accessible Anchor Links. [@see variety.com](http://variety.com/2017/digital/news/kevin-hart-laugh-out-loud-streaming-platform-launch-date-1202491634/)
+- As a Editor I need to see examples of Responsive Images.
+- As a Editor I need to see examples of Heros / Main Feature Areas.
+- As a Editor I need to see examples of the Frameworks Grid System.
+- As a Editor I need to see examples of Email Layout templates.
+- As a Editor I need to see examples of Responsive Video.
+- As a Editor I need to see examples of Social Media Sharing components.
+- As a Editor I need to see examples of Newsletter Signup components.
+- As a Editor I need to see examples of Footer Menus.
+- As a Editor I need to see examples of Standard Advertisements.
+- As a Editor I need to see examples of Screen Dialogs. [@see Dialog Effects](https://tympanus.net/Development/DialogEffects/alex.html)
+- As a Editor I need to see examples of Page Headers with and without search.
+- As a Editor I need to see examples of Article layouts.
+- As a Editor I need to see examples of Category layouts.
+- As a Editor I need to see examples of Breadcrumb component.
+- As a Editor I need to see examples of Registration components.
+- As a Editor I need to see examples of Alert Banner components.
+- As a Editor I need to see examples of Member Profile components.
+- As a Editor I need to see examples of Carousal Components.
+- As a Editor I need to see examples of Tab Content components.
+- As a Editor I need to see examples of Show More Content components.
+- As a Editor I need to see examples of Scrolling Page Parallax components.
+- As a Editor I need to see examples of Page Loader components.
+- As a Editor I need to see examples of Typography elements.
+- As a Editor I need to see examples of Basic HTML elements.
+- As a Editor I need to see examples of Controls. [@see Zurb Foundation Controls](https://foundation.zurb.com/sites/docs/button.html)
+- As a Editor I need to see examples of Navigation.
+- As a Editor I need to see examples of Containers.
+- As a Editor I need to see examples of Cards.
+- As a Editor I need to see examples of Standard Icon family.
+- As a Editor I need to see examples of Edge-to-edge Photos.
+- As a Editor I need to see examples of Quote Blocks.
+- As a Editor I need to see examples of Comment System.
+- As a Editor I need to see understand the pros & cons of using each components.
 
 ### Developer Stories
 - As a Developer I need an Angular development environment
-- As a Developer I need to have a development, staging and production environment to test code.
+- As a Developer I need to have a development, staging and production environments to test code.
 - As a Developer I need to be able understand how the code works and what is needed to get started
+- As a Developer I need a documentation system.
 - As a Developer I need a well supported grid system to develop layouts.
 - As a Developer I need interface that allows Editors to manage site configurations.
 - As a Developer I need documentation of third-party libraries used in framework.
+- As a Developer I need to be able to extend base theme with a new theme package.
+- As a Developer I need to see documentation of Sass functions.
+- As a Developer I need to see documentation of Mixins functions.
 
 ## Resources
 - [Simple Icons](https://github.com/simple-icons)
