@@ -1,5 +1,5 @@
 # afefede
-A beautiful responsive front-end framework for Black businesses
+A beautiful responsive UX/UI pattern library and front-end framework for Black businesses
 
 ## 13018 (2018) Roadmap
 - Use framework to build small to medium sized responsive websites
