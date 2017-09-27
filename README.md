@@ -38,7 +38,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Editor I need to see examples of the frameworks grid system.
 - As a Editor I need to see examples of email layout templates.
 - As a Editor I need to see examples of responsive video.
-- As a Editor I need to see examples of social media components.
+- As a Editor I need to see examples of social media sharing components.
 - As a Editor I need to see examples of newsletter signup components.
 - As a Editor I need to see examples of footer menus.
 - As a Editor I need to see examples of standard advertisements.
@@ -50,6 +50,10 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Editor I need to see examples of registration components.
 - As a Editor I need to see examples of alert banner components.
 - As a Editor I need to see examples of member profile components.
+- As a Editor I need to see examples of carousal components.
+- As a Editor I need to see examples of content in tabs components.
+- As a Editor I need to see examples of show more content components.
+- As a Editor I need to see examples of page parallax components.
 
 ### Developer Stories
 - As a Developer I need an Angular development environment
@@ -57,6 +61,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Developer I need to be able understand how the code works and what is needed to get started
 - As a Developer I need a well supported grid system to develop layouts.
 - As a Developer I need interface that allows Editors to manage site configurations.
+- As a Developer I need documentation of third-party libraries used in framework.
 
 ## Resources
 - [Simple Icons](https://github.com/simple-icons)
