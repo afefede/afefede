@@ -11,6 +11,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - Group patterns by industry specific UI/UX patterns
 - Make components accessible or provide best practices alternative
 - Use YAML Integration to manage and save framework configurations
+- We need option to add older browser support.
 
 ## Backlog
 
@@ -18,24 +19,41 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Product Owner I need personas for Developer, Editor, and Business Owner to understand their needs.
 - As a Product Owner I need to able to add downloadable content that supports and explains components framework.
 - As a Product Owner I need to able to collect personal details about visitors in exchange for featured content.
-- As a Product Owner I
+- As a Product Owner I need an easily recognizable Brand Identity system.
+- As a Product Owner I need
 
 ### Developer Stories
 - As a Developer I need an Angular development environment
 - As a Developer I need to have a development, staging and production environment to test code.
 - As a Developer I need to be able understand how the code works and what is needed to get started
+- As a Developer I need a well supported grid system to develop layouts.
+- As a Developer I need interface that allows Editors to manage site configurations.
 
 ### Editor Stories
-- As a Editor I need a clear example of the look-n-feel of the framework in action
+- As a Editor I need to see examples of look-n-feel of basic framework globally shared items.
 - As a Editor I need to see examples of accessible anchor links. [@see variety.com](http://variety.com/2017/digital/news/kevin-hart-laugh-out-loud-streaming-platform-launch-date-1202491634/)
 - As a Editor I need to see examples of how the framework handles responsive images.
 - As a Editor I need to see examples of how the framework treats hero and main feature areas.
-- As a Editor I need to see the frameworks a grid system and examples of grid system applied to sample content.
+- As a Editor I need to see examples of primary menu systems.
+- As a Editor I need to see examples of the frameworks grid system.
+- As a Editor I need to see examples of email layout templates.
+- As a Editor I need to see examples of responsive video.
+- As a Editor I need to see examples of social media components.
+- As a Editor I need to see examples of newsletter signup components.
+- As a Editor I need to see examples of footer menus.
+- As a Editor I need to see examples of standard advertisements.
+- As a Editor I need to see examples of screen overlays.
+- As a Editor I need to see examples of page headers with and without search.
+- As a Editor I need to see examples of article layouts.
+- As a Editor I need to see examples of category layouts.
+- As a Editor I need to see examples of breadcrumb component.
+- As a Editor I need to see examples of registration components.
 
 ### Business Owner
 - As a Business Owner I need a straightforward way to understand benefits of Framework.
 - As a Business Owner I need downloadable brochure that I can print out.
 - As a Business Owner I need to understand what impact the services will have on budget.
+- As a Business Owner I need to have a clear path on timeframe and level of effort it takes to go to market from conception to launch.
 
 ## Resources
 - [Simple Icons](https://github.com/simple-icons)
