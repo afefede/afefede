@@ -42,7 +42,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Editor I need to see examples of newsletter signup components.
 - As a Editor I need to see examples of footer menus.
 - As a Editor I need to see examples of standard advertisements.
-- As a Editor I need to see examples of screen overlays.
+- As a Editor I need to see examples of screen dialogs. [@see Dialog Effects](https://tympanus.net/Development/DialogEffects/alex.html)
 - As a Editor I need to see examples of page headers with and without search.
 - As a Editor I need to see examples of article layouts.
 - As a Editor I need to see examples of category layouts.
