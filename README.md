@@ -54,6 +54,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Editor I need to see examples of content in tabs components.
 - As a Editor I need to see examples of show more content components.
 - As a Editor I need to see examples of page parallax components.
+- As a Editor I need to see examples of page loader components.
 
 ### Developer Stories
 - As a Developer I need an Angular development environment
