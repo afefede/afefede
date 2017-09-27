@@ -30,11 +30,10 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 
 ### Editor Stories
 - As a Editor I need to see examples of look-n-feel of basic framework globally shared items.
-- As a Editor I need to see examples of how to add animation/interaction to each components.
+- As a Editor I need to see examples of how to add animation/interaction to each components. [@see Image Animation](https://tympanus.net/Development/AnimatedImagePieces/gallery.html)
 - As a Editor I need to see examples of accessible anchor links. [@see variety.com](http://variety.com/2017/digital/news/kevin-hart-laugh-out-loud-streaming-platform-launch-date-1202491634/)
 - As a Editor I need to see examples of how the framework handles responsive images.
 - As a Editor I need to see examples of how the framework treats hero and main feature areas.
-- As a Editor I need to see examples of primary menu systems.
 - As a Editor I need to see examples of the frameworks grid system.
 - As a Editor I need to see examples of email layout templates.
 - As a Editor I need to see examples of responsive video.
@@ -55,14 +54,23 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Editor I need to see examples of show more content components.
 - As a Editor I need to see examples of page parallax components.
 - As a Editor I need to see examples of page loader components.
+- As a Editor I need to see examples of Typography elements.
+- As a Editor I need to see examples of Basic HTML elements.
+- As a Editor I need to see examples of Controls.
+- As a Editor I need to see examples of Navigation.
+- As a Editor I need to see examples of Containers.
 
 ### Developer Stories
 - As a Developer I need an Angular development environment
-- As a Developer I need to have a development, staging and production environment to test code.
+- As a Developer I need to have a development, staging and production environments to test code.
 - As a Developer I need to be able understand how the code works and what is needed to get started
+- As a Developer I need a documentation system.
 - As a Developer I need a well supported grid system to develop layouts.
 - As a Developer I need interface that allows Editors to manage site configurations.
 - As a Developer I need documentation of third-party libraries used in framework.
+- As a Developer I need to be able to extend base theme with a new theme package.
+- As a Developer I need to see documentation of Sass functions.
+- As a Developer I need to see documentation of Mixins functions.
 
 ## Resources
 - [Simple Icons](https://github.com/simple-icons)
