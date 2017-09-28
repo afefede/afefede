@@ -67,7 +67,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 - As a Editor I need to see understand the pros & cons of using each components.
 
 ### Developer Stories
-- ~~As a Developer I need an Angular development environment~~ #
+- ~~As a Developer I need an Angular development environment~~ [#e4a0093](https://github.com/afefede/afefede/commit/e4a009342bcbcf00be7c800ab274f6cddb7880e4)
 - As a Developer I need to have a development, staging and production environments to test code.
 - As a Developer I need to be able understand how the code works and what is needed to get started
 - As a Developer I need a documentation system.
