@@ -5,6 +5,7 @@ A beautiful responsive UX/UI pattern library and front-end framework for Black b
 
 ```
 cd ~/fe-app
+npm install
 ng serve --open
 ```
 
